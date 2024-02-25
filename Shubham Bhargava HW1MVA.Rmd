@@ -1,0 +1,99 @@
+Homework 1
+
+Shubham Bhargava
+2024-02-11
+ 
+## Dataset for Analyzing News Website Traffic and Revenue
+
+Questions that I want to be answered with this dataset
+
+<b>How does the average session duration vary across different devices (Desktop, Mobile, Tablet) during different times of the day, and does this variation correlate with the conversion rate?</b>
+
+<p>
+
+1.  Understanding the relationship between average session duration, device categories, and conversion rates can provide valuable insights into user behavior and the effectiveness of marketing efforts. 
+
+2.  Identifying the average session duration on different devices helps in tailoring the website or app experience based on the preferred device of the users.
+
+3.By analyzing these metrics across different times of the day, you can identify peak performance periods and allocate resources for marketing campaigns or website maintenance accordingly.
+
+</p>
+
+<b>Does the type of material and length of session have a meaningful relationship?</b>
+
+<p>
+
+1.  Examining the correlation between content categories and session duration can help identify areas of a website where visitors rapidly become disinterested and leave. Enhancing the user experience, layout, or caliber of material within particular categories is made possible by this.
+
+2.  By focusing on subjects that pique users' interest and maintain their attention for extended periods of time, we can ensure that our content creation efforts are guided by this information.
+
+</p>
+
+<b>When does the biggest number of sessions and conversions occur across various traffic sources during the day?</b>
+
+<p>
+
+1.  By pinpointing the peak traffic periods for each traffic source, we      can optimize your website and its assets, including scheduling ad         campaigns and content, as well as enhancing the website's        responsiveness and loading speed.
+
+2.  We are able to make data-driven decisions that enhance user experience and optimize resource allocation when we comprehend the relationship between website performance, traffic source, and time of day.
+
+</p>    
+    
+
+## Find and collect data
+
+Variables in this dataset
+
+#### Independent Variables
+
+    - Time of Day
+    - Device Category 
+    - Content Category 
+    - Avg Session Duration
+    - Traffic Source
+    - Landing Page
+    - Campaign  
+    
+#### Dependent Variables
+
+
+    - Conversion Rate
+    - Total Sessions    
+    - Total revenue
+
+     
+
+[View the CSV file](News_Website_Dataset.csv)
+
+## Data Dictionary
+
+<p>
+
+
+<b>Total Revenue:</b> The total amount generated throughout the
+sessions.
+
+<b>Landing Page:</b> The first page a visitor viewed on your website.
+
+<b>Time of Day:</b> Categorical variable with 4 levels (Morning,
+Afternoon, Evening, Night).
+
+<b>Traffic Source:</b>An indicator of the source of visitors' traffic, such as Organic Search, Search, Referral, Direct, and Social.
+
+<b>Total Sessions:</b> total number of distinct visits to the website during a given period of time (e.g., Day, Week, Month).
+
+<b>Conversion Rate:</b>proportion of visitors who finish an activity that is wanted (such as signing up for a newsletter or polls).
+
+<b>Average Session Duration:</b> The average time spent by visitors on
+your website per session (continuous).
+
+<b>Content Category:</b> The content type of the visited page (such as Article, Category, About Us, Contact Us, and Home Page(/)) is classified by a categorical variable.
+
+<b>Campaign:</b> categorized variable that shows the marketing campaign from which a visitor came.
+
+<b>Device Category:</b> Categorical variable indicating the device used
+to access the website (e.g., Desktop, Mobile, Tablet).
+
+<p>
+
+
