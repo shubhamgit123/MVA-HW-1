@@ -46,24 +46,11 @@ Variables in this dataset
 
 #### Independent Variables
 
-    - Time of Day
-    - Device Category 
-    - Content Category 
-    - Avg Session Duration
-    - Traffic Source
-    - Landing Page
-    - Campaign  
+    - Time of Day, Device Category,Content Category,Avg Session Duration, Traffic Source, Landing Page, Campaign  
     
 #### Dependent Variables
 
-
-    - Conversion Rate
-    - Total Sessions    
-    - Total revenue
-
-     
-
-[View the CSV file](News_Website_Dataset.csv)
+    - Conversion Rate, Total Sessions, Total revenue
 
 ## Data Dictionary
 
